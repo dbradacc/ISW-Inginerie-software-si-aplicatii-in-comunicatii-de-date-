@@ -5,9 +5,9 @@ error_reporting(E_ALL);
 
 // date conexiune
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'r43721brad_bsad');
-define('DB_USER', 'r43721brad_bsad');
-define('DB_PASS', '.0@p{ct$bQb8');
+define('DB_NAME', 'proiect');
+define('DB_USER', 'proiect');
+define('DB_PASS', 'a!dP&4.hdy48');
 
 // autoload PSR-4 simplu
 require __DIR__ . '/autoload.php';
