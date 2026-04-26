@@ -1,0 +1,385 @@
+[05-May-2025 11:16:05 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/public_html/bazedate/index.php on line 8
+[05-May-2025 11:16:05 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/public_html/bazedate/index.php on line 8
+[05-May-2025 11:16:07 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/public_html/bazedate/index.php on line 8
+[05-May-2025 11:16:07 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/public_html/bazedate/index.php on line 8
+[05-May-2025 11:19:36 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:19:43 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:19:44 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:20:00 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:20:14 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:22:01 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:22:03 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:22:12 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:22:56 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:25:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:25:19 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:25:32 Europe/Bucharest] PHP Parse error:  syntax error, unexpected token "=" in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:26:02 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:26:02 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:26:07 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:26:07 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:33:43 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:33:43 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:17 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:17 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:18 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:18 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:25 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:25 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:26 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:37 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:37:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:23 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:23 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:24 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:24 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:25 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:25 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:26 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:26 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:27 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:27 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:28 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:29 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:40:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:14 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:14 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:15 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:15 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:15 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:15 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:27 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:28 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:28 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:45:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:46:55 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:46:55 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:48:32 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 11:48:32 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 12:08:50 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 12:08:50 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 12:13:19 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 12:13:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 12:14:54 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 12:14:54 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 8
+[05-May-2025 12:17:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Controllers\StudentController" not found in /home/r43721brad/proiect.bradac.ro/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 19
+[05-May-2025 12:17:37 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Controllers\StudentController" not found in /home/r43721brad/proiect.bradac.ro/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 19
+[05-May-2025 12:18:15 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Controllers\StudentController" not found in /home/r43721brad/proiect.bradac.ro/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 18
+[05-May-2025 12:19:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Controllers\StudentController" not found in /home/r43721brad/proiect.bradac.ro/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 18
+[05-May-2025 12:20:55 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Core\Controller" not found in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php:7
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(18): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 7
+[05-May-2025 12:22:32 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Core\Controller" not found in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php:7
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(18): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 7
+[05-May-2025 12:27:17 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function iini_set() in /home/r43721brad/proiect.bradac.ro/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 4
+[05-May-2025 12:32:55 Europe/Bucharest] PHP Warning:  require(/home/r43721brad/proiect.bradac.ro/../config.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/index.php on line 7
+[05-May-2025 12:32:55 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/../config.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 7
+[05-May-2025 12:34:21 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:34:21 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:34:23 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/enrollments/list.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php on line 16
+[05-May-2025 12:34:23 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/enrollments/list.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php on line 16
+[05-May-2025 12:34:24 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:34:24 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:34:25 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 27
+[05-May-2025 12:34:25 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 27
+[05-May-2025 12:34:25 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 12:34:25 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 12:34:35 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:34:35 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:38:17 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 41
+[05-May-2025 12:38:17 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 41
+[05-May-2025 12:38:20 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:38:20 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/list.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 16
+[05-May-2025 12:39:58 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 41
+[05-May-2025 12:39:58 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 41
+[05-May-2025 12:40:13 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/enrollments/list.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php on line 16
+[05-May-2025 12:40:13 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/enrollments/list.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php on line 16
+[05-May-2025 12:41:33 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/enrollments/form.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php on line 27
+[05-May-2025 12:41:33 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/enrollments/form.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php on line 27
+[05-May-2025 12:41:49 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 27
+[05-May-2025 12:41:49 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/students/form.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 27
+[05-May-2025 12:41:49 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 12:41:49 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 12:45:22 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`r43721brad_bsad`.`Inscrieri`, CONSTRAINT `Inscrieri_ibfk_1` FOREIGN KEY (`ID_Student`) REFERENCES `Studenti` (`ID_Student`) ON DELETE CASCADE) in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php:27
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php(27): PDOStatement->execute()
+#1 /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php(22): App\Models\Enrollment->create()
+#2 /home/r43721brad/proiect.bradac.ro/index.php(32): App\Controllers\EnrollmentController->create()
+#3 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php on line 27
+[05-May-2025 12:45:54 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/form.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 27
+[05-May-2025 12:45:54 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/courses/form.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 27
+[05-May-2025 12:45:58 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 12:45:58 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 12:46:42 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 12:46:42 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 19:48:14 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 19:48:14 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 19:49:31 Europe/Bucharest] PHP Warning:  include(/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 19:49:31 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/r43721brad/proiect.bradac.ro/src/Controllers/../../views/templates&lt;footer.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 28
+[05-May-2025 19:59:07 Europe/Bucharest] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 7
+[05-May-2025 20:31:36 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'r43721brad_bsad.Prezente' doesn't exist in /home/r43721brad/proiect.bradac.ro/src/Models/Attendance.php:23
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/src/Models/Attendance.php(23): PDO->query()
+#1 /home/r43721brad/proiect.bradac.ro/src/Controllers/AttendanceController.php(11): App\Models\Attendance->all()
+#2 /home/r43721brad/proiect.bradac.ro/index.php(49): App\Controllers\AttendanceController->index()
+#3 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Models/Attendance.php on line 23
+[05-May-2025 20:40:55 Europe/Bucharest] PHP Parse error:  Unclosed '{' on line 68 in /home/r43721brad/proiect.bradac.ro/src/Models/Attendance.php on line 73
+[05-May-2025 20:41:38 Europe/Bucharest] PHP Parse error:  Unclosed '{' on line 68 in /home/r43721brad/proiect.bradac.ro/src/Models/Attendance.php on line 73
+[05-May-2025 20:41:39 Europe/Bucharest] PHP Parse error:  Unclosed '{' on line 68 in /home/r43721brad/proiect.bradac.ro/src/Models/Attendance.php on line 73
+[05-May-2025 21:00:10 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\StudentController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 34
+[05-May-2025 21:03:28 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\StudentController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 34
+[05-May-2025 21:03:29 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\StudentController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 34
+[05-May-2025 21:03:30 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\StudentController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 34
+[05-May-2025 21:03:44 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\StudentController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 34
+[05-May-2025 21:04:51 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\CourseController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 27
+[05-May-2025 21:05:00 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\CourseController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/CourseController.php on line 27
+[05-May-2025 21:05:04 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\AttendanceController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/AttendanceController.php on line 55
+[05-May-2025 21:05:25 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\AttendanceController::index() in /home/r43721brad/proiect.bradac.ro/src/Controllers/AttendanceController.php on line 55
+[05-May-2025 21:12:32 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 24
+[05-May-2025 21:12:32 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 25
+[05-May-2025 21:12:32 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 25
+[05-May-2025 21:12:32 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 25
+[05-May-2025 21:14:02 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 36
+[05-May-2025 21:14:02 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 37
+[05-May-2025 21:14:02 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 37
+[05-May-2025 21:14:02 Europe/Bucharest] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 37
+[05-May-2025 21:14:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "Dompdf\Dompdf" not found in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:73
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/index.php(55): App\Controllers\ExportController->pdf()
+#1 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 73
+[05-May-2025 21:17:42 Europe/Bucharest] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 5
+[05-May-2025 21:20:23 Europe/Bucharest] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 5
+[05-May-2025 21:22:05 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Undefined constant "App\Controllers\ROOT_PATH" in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:22:08 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Undefined constant "App\Controllers\ROOT_PATH" in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:23:26 Europe/Bucharest] PHP Warning:  require_once(/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:23:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:23:42 Europe/Bucharest] PHP Warning:  require_once(/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:23:42 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:26:51 Europe/Bucharest] PHP Warning:  require_once(/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:26:51 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:26:54 Europe/Bucharest] PHP Warning:  require_once(/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:26:54 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:27:01 Europe/Bucharest] PHP Warning:  require_once(/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:27:01 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:27:24 Europe/Bucharest] PHP Warning:  require_once(/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php): Failed to open stream: No such file or directory in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:27:24 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Failed opening required '/home/r43721brad/proiect.bradac.ro/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php:10
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/autoload.php(9): require()
+#1 /home/r43721brad/proiect.bradac.ro/index.php(40): {closure:/home/r43721brad/proiect.bradac.ro/autoload.php:2}()
+#2 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 10
+[05-May-2025 21:33:34 Europe/Bucharest] PHP Parse error:  syntax error, unexpected variable "$html", expecting "function" in /home/r43721brad/proiect.bradac.ro/src/Controllers/ExportController.php on line 58
+[05-May-2025 21:48:24 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:48:29 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:49:47 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:49:51 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:49:53 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:49:55 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:49:57 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:50:09 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:50:12 Europe/Bucharest] PHP Parse error:  syntax error, unexpected identifier "Audit" in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 15
+[05-May-2025 21:54:14 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Controllers\AuthController" not found in /home/r43721brad/proiect.bradac.ro/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 22
+[05-May-2025 21:54:46 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Class "App\Controllers\AuthController" not found in /home/r43721brad/proiect.bradac.ro/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/index.php on line 22
+[05-May-2025 21:57:19 Europe/Bucharest] PHP Deprecated:  App\Models\Audit::log(): Implicitly marking parameter $id as nullable is deprecated, the explicit nullable type must be used instead in /home/r43721brad/proiect.bradac.ro/src/Models/Audit.php on line 7
+[05-May-2025 21:57:19 Europe/Bucharest] PHP Deprecated:  App\Models\Audit::log(): Implicitly marking parameter $info as nullable is deprecated, the explicit nullable type must be used instead in /home/r43721brad/proiect.bradac.ro/src/Models/Audit.php on line 7
+[05-May-2025 22:02:22 Europe/Bucharest] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/r43721brad/proiect.bradac.ro/views/audit/list.php on line 29
+[05-May-2025 22:03:16 Europe/Bucharest] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/r43721brad/proiect.bradac.ro/views/audit/list.php on line 29
+[05-May-2025 22:03:17 Europe/Bucharest] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/r43721brad/proiect.bradac.ro/views/audit/list.php on line 29
+[05-May-2025 22:13:43 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'daniel@bradac.ro' for key 'Email' in /home/r43721brad/proiect.bradac.ro/src/Models/Student.php:45
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/src/Models/Student.php(45): PDOStatement->execute()
+#1 /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php(40): App\Models\Student->create()
+#2 /home/r43721brad/proiect.bradac.ro/index.php(59): App\Controllers\StudentController->create()
+#3 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Models/Student.php on line 45
+[05-May-2025 22:14:58 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\StudentController::delete() in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 84
+[05-May-2025 22:15:28 Europe/Bucharest] PHP Fatal error:  Cannot redeclare App\Controllers\StudentController::delete() in /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php on line 84
+[05-May-2025 22:24:39 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4-2' for key 'PRIMARY' in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php:42
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php(42): PDOStatement->execute()
+#1 /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php(37): App\Models\Enrollment->create()
+#2 /home/r43721brad/proiect.bradac.ro/index.php(59): App\Controllers\EnrollmentController->create()
+#3 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php on line 42
+[05-May-2025 23:45:48 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11-14' for key 'PRIMARY' in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php:42
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php(42): PDOStatement->execute()
+#1 /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php(30): App\Models\Enrollment->create()
+#2 /home/r43721brad/proiect.bradac.ro/index.php(59): App\Controllers\EnrollmentController->create()
+#3 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php on line 42
+[06-May-2025 10:08:54 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '12-5' for key 'PRIMARY' in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php:42
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php(42): PDOStatement->execute()
+#1 /home/r43721brad/proiect.bradac.ro/src/Controllers/EnrollmentController.php(30): App\Models\Enrollment->create()
+#2 /home/r43721brad/proiect.bradac.ro/index.php(59): App\Controllers\EnrollmentController->create()
+#3 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Models/Enrollment.php on line 42
+[06-May-2025 10:10:33 Europe/Bucharest] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'daniel@bradac.ro' for key 'Email' in /home/r43721brad/proiect.bradac.ro/src/Models/Student.php:45
+Stack trace:
+#0 /home/r43721brad/proiect.bradac.ro/src/Models/Student.php(45): PDOStatement->execute()
+#1 /home/r43721brad/proiect.bradac.ro/src/Controllers/StudentController.php(41): App\Models\Student->create()
+#2 /home/r43721brad/proiect.bradac.ro/index.php(59): App\Controllers\StudentController->create()
+#3 {main}
+  thrown in /home/r43721brad/proiect.bradac.ro/src/Models/Student.php on line 45
