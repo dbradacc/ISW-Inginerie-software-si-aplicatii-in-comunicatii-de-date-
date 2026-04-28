@@ -74,10 +74,10 @@
 ?>
 
 <nav class="navbar navbar-expand-lg navbar-dark">
-  <div class="container">
+  <div class="container <?= empty($_SESSION['user']) ? 'justify-content-center' : '' ?>">
 
     <!-- LOGO (unul singur) -->
-    <a class="navbar-brand fw-bold" href="index.php">ZONA ADMINISTRATIVĂ</a>
+    <a class="navbar-brand fw-bold <?= empty($_SESSION['user']) ? 'm-0' : '' ?>" href="index.php">ZONA ADMINISTRATIVĂ</a>
 
     <?php if (!empty($_SESSION['user'])): ?>
       <div class="navbar-nav me-auto ms-4 gap-2">
