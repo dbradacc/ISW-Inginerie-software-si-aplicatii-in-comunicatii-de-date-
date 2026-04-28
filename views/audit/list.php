@@ -132,6 +132,44 @@
   </div>
 </div>
 
+<!-- Filter Card -->
+<div class="admin-card mb-3 p-3">
+  <div class="row g-3 align-items-end">
+    <div class="col-md-3">
+      <label class="form-label mb-1" style="font-size: 0.85rem; font-weight: 500; color: #475569;">Caută IP</label>
+      <input type="text" id="filterIp" class="form-control form-control-sm" placeholder="Introdu IP...">
+    </div>
+    <div class="col-md-3">
+      <label class="form-label mb-1" style="font-size: 0.85rem; font-weight: 500; color: #475569;">Acțiune</label>
+      <select id="filterAction" class="form-select form-select-sm">
+        <option value="">Toate acțiunile</option>
+        <option value="login">Login</option>
+        <option value="logout">Logout</option>
+        <option value="create">Create</option>
+        <option value="update">Update</option>
+        <option value="delete">Delete</option>
+      </select>
+    </div>
+    <div class="col-md-3">
+      <label class="form-label mb-1" style="font-size: 0.85rem; font-weight: 500; color: #475569;">Sortează după</label>
+      <select id="sortSelect" class="form-select form-select-sm">
+        <option value="newest">Cele mai noi</option>
+        <option value="oldest">Cele mai vechi</option>
+        <option value="ip-asc">IP A-Z</option>
+        <option value="action-asc">Acțiune A-Z</option>
+      </select>
+    </div>
+    <div class="col-md-3 d-flex gap-2">
+      <button id="applyFiltersBtn" class="btn btn-sm w-100" style="background-color: #0f172a; color: #ffffff; border-radius: 6px; font-weight: 500; padding-top: 0.35rem; padding-bottom: 0.35rem;">
+        Aplică Filtre
+      </button>
+      <button id="resetFiltersBtn" class="btn btn-sm w-100" style="border: 1px solid #cbd5e1; color: #475569; background-color: #ffffff; border-radius: 6px; font-weight: 500; padding-top: 0.35rem; padding-bottom: 0.35rem; transition: all 0.2s;">
+        Resetează
+      </button>
+    </div>
+  </div>
+</div>
+
 <!-- Table Card -->
 <div class="admin-card table-card">
   <div class="table-responsive">
@@ -150,10 +188,10 @@
       </thead>
       <tbody>
       <?php foreach ($logs as $l): ?>
-        <tr>
+        <tr class="audit-row" data-timestamp="<?= strtotime($l['Created_at']) ?>">
           <td style="color: #6b7280; font-family: monospace;"><?= $l['ID_Audit'] ?></td>
           <td style="font-weight: 500; color: #374151;"><?= htmlspecialchars($l['username']) ?></td>
-          <td style="color: #64748b; font-family: monospace; font-size: 0.85rem;"><?= htmlspecialchars($l['IP']) ?></td>
+          <td class="ip-cell" style="color: #64748b; font-family: monospace; font-size: 0.85rem;"><?= htmlspecialchars($l['IP']) ?></td>
           <td>
             <?php 
               $actionClass = 'badge-action ';
@@ -178,8 +216,12 @@
             <?= (!empty($l['ID_Ent']) && $l['ID_Ent'] !== '-') ? htmlspecialchars($l['ID_Ent']) : '<span class="info-empty">-</span>' ?>
           </td>
           <td>
-            <?php if (!empty($l['Info']) && trim($l['Info']) !== '-'): ?>
-              <div class="info-box"><?= htmlspecialchars($l['Info']) ?></div>
+            <?php 
+              $infoRaw = $l['Info'] ?? '';
+              $infoText = trim((string)$infoRaw);
+              if (!empty($infoText) && $infoText !== '-'): 
+            ?>
+              <div class="info-box"><?= htmlspecialchars($infoText) ?></div>
             <?php else: ?>
               <span class="info-empty">-</span>
             <?php endif; ?>
@@ -198,5 +240,87 @@
     </table>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const applyBtn = document.getElementById('applyFiltersBtn');
+  const resetBtn = document.getElementById('resetFiltersBtn');
+  const tbody = document.querySelector('tbody');
+  
+  if (!tbody || !applyBtn) return;
+  
+  const originalRows = Array.from(tbody.querySelectorAll('tr.audit-row'));
+  
+  let noResultsRow = document.createElement('tr');
+  noResultsRow.className = 'no-results-row';
+  noResultsRow.style.display = 'none';
+  noResultsRow.innerHTML = '<td colspan="8" class="text-center py-4" style="color: #6b7280; font-style: italic;">Nu există înregistrări pentru filtrele selectate.</td>';
+  tbody.appendChild(noResultsRow);
+
+  applyBtn.addEventListener('click', function() {
+    const ipVal = document.getElementById('filterIp').value.toLowerCase().trim();
+    const actionVal = document.getElementById('filterAction').value.toLowerCase();
+    const sortVal = document.getElementById('sortSelect').value;
+
+    let visibleCount = 0;
+    let filteredRows = [];
+
+    originalRows.forEach(row => {
+      const ip = row.querySelector('.ip-cell').textContent.toLowerCase();
+      const action = row.querySelector('.badge-action').textContent.toLowerCase();
+      
+      let show = true;
+      if (ipVal && !ip.includes(ipVal)) show = false;
+      if (actionVal && action !== actionVal) show = false;
+
+      if (show) {
+        filteredRows.push(row);
+        visibleCount++;
+      } else {
+        row.style.display = 'none';
+      }
+    });
+
+    filteredRows.sort((a, b) => {
+      if (sortVal === 'newest') {
+        return parseInt(b.dataset.timestamp) - parseInt(a.dataset.timestamp);
+      } else if (sortVal === 'oldest') {
+        return parseInt(a.dataset.timestamp) - parseInt(b.dataset.timestamp);
+      } else if (sortVal === 'ip-asc') {
+        const ipA = a.querySelector('.ip-cell').textContent.toLowerCase();
+        const ipB = b.querySelector('.ip-cell').textContent.toLowerCase();
+        return ipA.localeCompare(ipB);
+      } else if (sortVal === 'action-asc') {
+        const actA = a.querySelector('.badge-action').textContent.toLowerCase();
+        const actB = b.querySelector('.badge-action').textContent.toLowerCase();
+        return actA.localeCompare(actB);
+      }
+      return 0;
+    });
+
+    filteredRows.forEach(row => {
+      row.style.display = '';
+      tbody.appendChild(row);
+    });
+
+    noResultsRow.style.display = visibleCount === 0 && originalRows.length > 0 ? '' : 'none';
+    tbody.appendChild(noResultsRow);
+    
+    const originalEmpty = tbody.querySelector('tr:not(.audit-row):not(.no-results-row)');
+    if (originalEmpty && originalRows.length > 0) {
+      originalEmpty.style.display = 'none';
+    }
+  });
+
+  if (resetBtn) {
+    resetBtn.addEventListener('click', function() {
+      document.getElementById('filterIp').value = '';
+      document.getElementById('filterAction').value = '';
+      document.getElementById('sortSelect').value = 'newest';
+      applyBtn.click();
+    });
+  }
+});
+</script>
 
 <?php include __DIR__ . '/../templates/footer.php'; ?>
