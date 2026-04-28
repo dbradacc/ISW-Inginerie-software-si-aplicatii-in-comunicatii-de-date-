@@ -195,8 +195,9 @@
           <?php endfor; ?>
         </select>
       </div>
-      <div class="col-md-3">
-        <button class="btn-dashboard btn-primary-custom w-100">Aplica Filtre</button>
+      <div class="col-md-3 d-flex gap-2">
+        <button type="submit" class="btn-dashboard btn-primary-custom w-100">Aplica Filtre</button>
+        <a href="index.php?resource=students" class="btn-dashboard btn-secondary-custom w-100">Resetează</a>
       </div>
     </form>
   </div>
