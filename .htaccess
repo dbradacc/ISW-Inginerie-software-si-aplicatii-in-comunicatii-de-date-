@@ -1,0 +1,77 @@
+RewriteEngine On
+
+# =========================================================
+# FINAL TARGETS (these should return 200 so your tool stops)
+# =========================================================
+RewriteRule ^final$ - [L]
+RewriteRule ^root-target$ - [L]
+RewriteRule ^relative-target$ - [L]
+RewriteRule ^up-target$ - [L]
+RewriteRule ^scheme-relative-target$ - [L]
+RewriteRule ^query-target$ - [L]
+
+# Optional simple 200 response pages
+ErrorDocument 200 "OK"
+
+# =========================================================
+# TEST 1: Absolute HTTPS redirect
+# Expected Location: https://your-test-domain.com/final
+# =========================================================
+RewriteRule ^test-abs$ https://your-test-domain.com/final [R=302,L]
+
+# =========================================================
+# TEST 2: Root-relative redirect
+# Expected Location: /root-target
+# =========================================================
+RewriteRule ^test-root-relative$ /root-target [R=302,L]
+
+# =========================================================
+# TEST 3: Path-relative redirect
+# Expected Location: relative-target
+# =========================================================
+RewriteRule ^test-path-relative$ relative-target [R=302,L]
+
+# =========================================================
+# TEST 4: Parent-relative redirect
+# Visit: /dir/test-parent-relative
+# Expected Location: ../up-target
+# =========================================================
+RewriteRule ^dir/test-parent-relative$ ../up-target [R=302,L]
+
+# =========================================================
+# TEST 5: Scheme-relative redirect
+# Expected Location: //your-test-domain.com/scheme-relative-target
+# =========================================================
+RewriteRule ^test-scheme-relative$ //your-test-domain.com/scheme-relative-target [R=302,L]
+
+# =========================================================
+# TEST 6: Query-only redirect
+# Expected Location: ?from=redirect-test
+# =========================================================
+RewriteRule ^test-query-only$ ?from=redirect-test [R=302,L]
+
+# Route the query-only redirect to a final page if you want
+RewriteCond %{QUERY_STRING} ^from=redirect-test$
+RewriteRule ^test-query-only$ /query-target [L]
+
+# =========================================================
+# TEST 7: Redirect loop A -> B -> A
+# Good for loop protection testing
+# =========================================================
+RewriteRule ^loop-a$ /loop-b [R=302,L]
+RewriteRule ^loop-b$ /loop-a [R=302,L]
+
+# =========================================================
+# TEST 8: Multi-hop chain
+# abs -> root-relative -> path-relative -> final
+# =========================================================
+RewriteRule ^chain-start$ https://your-test-domain.com/chain-step-2 [R=302,L]
+RewriteRule ^chain-step-2$ /chain-step-3 [R=302,L]
+RewriteRule ^chain-step-3$ final [R=302,L]
+
+# =========================================================
+# TEST 9: Non-HTTP scheme
+# Good for scheme validation testing
+# Your tool should NOT try to follow this
+# =========================================================
+RewriteRule ^test-mailto$ mailto:test@example.com [R=302,L]
